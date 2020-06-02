@@ -1,0 +1,2 @@
+# cardinal
+slack/discord clone
